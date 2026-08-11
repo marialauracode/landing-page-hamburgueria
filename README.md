@@ -19,3 +19,5 @@ Landing page desenvolvida para uma hamburgueria fictícia, com uma interface mod
 * Animações e efeitos em botões e links;
 * Seção principal com apresentação do restaurante;
 * Elementos visuais desenvolvidos para proporcionar uma navegação mais dinâmica.
+
+## 👩🏻‍💻 Feito por Maria Laura Costa.
