@@ -1,25 +1,20 @@
 ![image](https://github.com/user-attachments/assets/85934feb-4267-453e-a3e9-fa1940811e8c)
 
+## 🌐 Visualize o projeto
+[Ver Projeto Online](https://marialauracode.github.io/landing-page-hamburgueria/)
+
 ## 📂 Sobre o Projeto
-* Landing page responsiva desenvolvida como protótipo para a página principal de uma hamburgueria fictícia;
-  
-* Criada utilizando HTML5, CSS3 e JavaScript para estruturação, estilização e interatividade;
-  
-* Inclui efeitos especiais em botões e links, além de um menu hamburguer que pode ser acionado em telas menores, aprimorando a experiência do usuário.
+Landing page desenvolvida para uma hamburgueria fictícia, com uma interface moderna e responsiva voltada para a apresentação do restaurante. O projeto foi construído utilizando HTML5, CSS3 e JavaScript, explorando recursos de estilização, animações e interações para tornar a navegação mais dinâmica.
 
-## 🛠 Tecnologias Utilizadas
-
-* HTML5
-  
-* CSS3
-  
-* JavaScript
+## 🛠️ Tecnologias utilizadas
+* **HTML5:** Estruturação e organização do conteúdo;
+* **CSS3:** Estilização, responsividade e efeitos visuais;
+* **JavaScript:** Interações e funcionalidades da página.
 
 ## 📦 Funcionalidades
-* Design responsivo: a página se adapta a diferentes tamanhos de tela, oferecendo uma ótima experiência tanto em desktops quanto em dispositivos móveis;
-  
-* Menu hamburguer interativo: com o uso de JavaScript, o menu se transforma em um ícone de hambúrguer em telas menores, permitindo uma navegação fluida e prática;
-  
-* Botões e links animados: efeitos visuais nos elementos interativos, como botões e links, melhorando a experiência do usuário;
-  
-* Seção de destaque: área de boas-vindas e informações sobre o restaurante com textos e imagens alinhados de forma atraente.
+* Adaptação do layout para diferentes tamanhos de tela;
+* Menu hambúrguer para dispositivos móveis;
+* Navegação interativa entre as seções;
+* Animações e efeitos em botões e links;
+* Seção principal com apresentação do restaurante;
+* Elementos visuais desenvolvidos para proporcionar uma navegação mais dinâmica.
