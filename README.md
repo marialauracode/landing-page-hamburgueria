@@ -1,4 +1,5 @@
-![image](https://marialauracode.github.io/landing-page-hamburgueria/)
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/15d6e0c5-f2ab-4926-8209-b027c30fde2b" />
+
 
 ## 🌐 Visualize o projeto
 [Ver Projeto Online](https://marialauracode.github.io/landing-page-hamburgueria/)
